@@ -1,0 +1,21 @@
+
+body {
+    background-color: #212121;
+    color: #fff;
+}
+
+.bgColor {
+    font-size: 1.3rem;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+
+button {
+    padding: 10px 1rem;
+    color: red;
+    background-color: transparent;
+    font-weight: 900;
+    font-size: 1.1rem;
+    border: 1px solid #fff;
+    letter-spacing: 1px;
+}
