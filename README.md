@@ -6,7 +6,8 @@ React curriculum.
 ///////////////////////////////////////////////
 1 => Introduction to React:
 
-Understand the basics of React, including its component-based architecture and virtual DOM.
+Understand the basics of React, including its component-based architecture and Virtual DOM, Fibre and reconciliation.
+React Component Lifecycles.
 Set up a development environment with Node.js, npm, and create-react-app.
 Learn how to create and render functional and class components.
 Explore JSX syntax for embedding HTML-like syntax within JavaScript.
